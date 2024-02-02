@@ -31,7 +31,7 @@ solana-keygen new
 
 NODE_MAJOR=18 
 
-sudo apt-get update
+sudo apt-get updateGCNFFGJGG
 
 sudo apt-get install -y ca-certificates curl gnupg 
 
